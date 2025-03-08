@@ -1,0 +1,54 @@
+/* Mengatur tampilan halaman */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Mengatur tampilan header */
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+}
+
+/* Mengatur tampilan gambar profil */
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+/* Mengatur tampilan teks dalam profil */
+.profile p {
+    font-size: 18px;
+    color: #333;
+}
+
+/* Mengatur tampilan daftar sosial media */
+.profile ul {
+    list-style: none;
+    padding: 0;
+}
+
+.profile ul li {
+    display: inline;
+    margin: 10px;
+}
+
+.profile ul li a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.profile ul li a:hover {
+    color: #0056b3;
+}
+
+.profile img:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
