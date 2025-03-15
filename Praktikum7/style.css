@@ -1,0 +1,19 @@
+body {
+    background-color: #d7fff9;
+}
+.clock-container {
+    background-color:rgb(186, 245, 225);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    min-width: 300px;
+}
+h1 {
+    font-family: 'Times New Roman', times;
+    font-size: 3rem;
+}
+.judul {
+    font-family: 'Times New Roman', times;
+    font-size: 70px;
+}
