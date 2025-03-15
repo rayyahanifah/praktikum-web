@@ -1,0 +1,18 @@
+body {
+    background-color: #aeffeb;
+}
+h2 {
+    color: #000000;
+}
+#message {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.container {
+    position: relative;
+    width: 700px;
+    overflow: hidden;
+    background: #d4fff4;
+    margin: auto;
+    border-radius: 30px;
+}
